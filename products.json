@@ -1,0 +1,45 @@
+{
+    "categories": {
+        "men": "MEN ",
+        "women": "WOMEN",
+        "kids": "KIDS"
+    },
+    "products": {
+        "men": [
+            {
+                "id": 1,
+                "name": "Men Shirt",
+                "price": 5000,
+                "image": "welcomeIcon.png"
+            },
+            {
+                "id": 2,
+                "name": "Men Jeans",
+                "price": 8000,
+                "image": "welcomeIcon.png"
+            }
+        ],
+        "women": [
+            {
+                "id": 3,
+                "name": "Ladies Gown",
+                "price": 12000,
+                "image": "welcomeIcon.png"
+            },
+            {
+                "id": 4,
+                "name": "Skirt",
+                "price": 7000,
+                "image": "welcomeIcon.png"
+            }
+        ],
+        "kids": [
+            {
+                "id": 5,
+                "name": "Kids Polo",
+                "price": 4000,
+                "image": "welcomeIcon.png"
+            }
+        ]
+    }
+}
